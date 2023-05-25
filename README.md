@@ -42,5 +42,6 @@ Key Identifiers:
 				 - In [2, 1, 3, 5, 4, 2, 6], the shortest unique subarray is [3, 5, 4].
 
 Resources:
+
 *The article that the majority of this write-up is based on:
 https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed*
