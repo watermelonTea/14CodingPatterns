@@ -27,6 +27,7 @@ According to Fahim, a sliding window pattern is a pattern that requires you to p
 So, a sliding window is the "window" that is sliding along the given array as you continue to perform which ever operation is requested from you.
 
 ![sliding window](https://files.catbox.moe/rhhs55.png)
+
 You can see here that the Window began on the first two elements of the array and has **slid** to the next position. 
 Key Identifiers:
 
