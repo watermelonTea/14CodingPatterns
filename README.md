@@ -1,7 +1,7 @@
 # 14CodingPatterns
 14 Coding Patterns according to Fahim ul Haq
 
-## In an attempt to improve my coding skills I will follow this article and try to gain knowledge on these 14 patterns using supplementary resources.
+## In an attempt to improve my coding skills I will follow [this article](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed) and try to gain knowledge on these 14 patterns using supplementary resources.
 
 To outline the 14 patterns that [Fahim ul Haq](https://hackernoon.com/u/fahimulhaq) brings up, we have:
 
